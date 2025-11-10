@@ -1,0 +1,11 @@
+{
+    "name": "Pocket Diciontary",
+    "version": "1.0",
+    "description": "A simple little dictionary",
+    "manifest_version": 3,
+    "author": "Ethan Nguyen",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Pocket Dictionary"
+    }
+}
